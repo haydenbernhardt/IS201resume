@@ -1,0 +1,58 @@
+
+.link{
+    text-align: center;
+    font-family: cursive;
+    color: palevioletred;
+    border: 5px solid white;
+    padding: 0px;
+    width: 150px;
+    margin: 0 auto;
+    background-color: white;
+}
+
+h1{
+    font-family: cursive;
+    text-align: center;
+    color: white;
+    border: 5px solid white;
+    padding: 0px;
+    width: 350px;
+    margin: 0 auto;
+    background-color: palevioletred;
+}
+
+.list{
+    color: white;
+    font-family: cursive;
+    font-size: large;
+}
+
+.text-box{
+    border: 5px solid white;
+    padding: 1px;
+    width: 600px;
+    margin: 0 auto;
+    background-color: crimson;
+}
+
+.video-center{
+    text-align: center;
+    display: inline-block;
+    margin: 0 auto;
+}
+
+.top{
+    text-align: center;
+    font-family: cursive;
+    color: palevioletred;
+    border: 5px solid white;
+    padding: 0px;
+    width: 150px;
+    margin: 0 auto;
+    background-color: white;
+}
+img{
+    width: 350px;
+    display: block;
+    margin: auto;
+}
